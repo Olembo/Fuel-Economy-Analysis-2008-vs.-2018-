@@ -79,7 +79,7 @@ The analysis is conducted using Python with the following libraries:
 * matplotlib
 * seaborn
 
-The code files for this project are located in fuel_eco_analysis.ipynb.
+The code files for this project are located in https://github.com/Olembo/Fuel-Economy-Analysis-2008-vs.-2018-/blob/main/fuel_eco_analysis.ipynb.
 
 ## Visualizations
 
