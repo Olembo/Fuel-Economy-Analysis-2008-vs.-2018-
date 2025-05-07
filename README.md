@@ -79,7 +79,7 @@ The analysis is conducted using Python with the following libraries:
 * matplotlib
 * seaborn
 
-The code files for this project are located in [link to code files/directory].
+The code files for this project are located in fuel_eco_analysis.ipynb.
 
 ## Visualizations
 
